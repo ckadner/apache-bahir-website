@@ -19,7 +19,7 @@ limitations under the License.
 
 # Apache Bahir Website
 
-The Apache Bahir website was forked from the [Apache Website Template](https://github.com/apache/apache-website-template){:target="_blank"}.
+The Apache Bahir website was forked from the [Apache Website Template](https://github.com/apache/apache-website-template).
 
 The website gets generated using [Jekyll](https://jekyllrb.com/).
 
